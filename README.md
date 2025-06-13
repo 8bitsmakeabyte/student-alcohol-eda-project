@@ -1,5 +1,6 @@
 ## Student Alcohol Consumption Analysis
 🔨Tools Used: Python (Google Colab, Pandas, Matplotlib, Seaborn)
+
 🏢Team Size: 6 | Role: Data Analyst & Visualizer
 
 🌐Overview: Performed Exploratory Data Analysis (EDA) on survey data from secondary school students enrolled in Math and Portuguese courses to understand patterns in alcohol consumption. The project explored how demographic, academic, and social factors influence alcohol use among teenagers.
